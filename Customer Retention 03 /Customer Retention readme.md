@@ -28,7 +28,7 @@ Widoki:
 
 # Frontend
 Model gwiazdy w Power Bi 1 grain - 1 zamówienie klienta,
-
+<img src="Customer_Retention_Model.png" alt="Model Preview" width="400">
 Tabele oraz kolumny  stworzone w Power Bi:
 
 * Tabela Calendar :
