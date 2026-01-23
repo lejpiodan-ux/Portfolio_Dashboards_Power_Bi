@@ -1,6 +1,6 @@
 
 
-
+# Customer Retension Project
 
 ## Spis treści
 * [Backend](#backend)
@@ -12,6 +12,7 @@
 
 
  Cel Projektu Celem projektu było ukazanie którzy klienci indywidualni robią najrzadziej zakupy w firmie.
+ Użyta baza danych : Adventureworks2017
 
 # Backend
 Przygotowanie widoków w ssms oraz połączenie imion i nazwisk klientów spójną całość. Dodanie nowego widoku w sql fact 2 zawierającej dni pomiędzy ostatnim a przedostatnim zamówieniem klienta.
