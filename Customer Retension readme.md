@@ -6,12 +6,13 @@
 * [Cel projektu](#cel-projektu)
 * [Backend](#backend)
 * [Frontend](#frontend)
+* [Wykorzystane Wizualizacje](#wykorzystane-wizualizacje))
 
 
 
-# Cel Projektu: Celem projektu było ukazanie którzy klienci indywidualni robią najrzadziej zakupy w firmie.
+#Cel Projektu: Celem projektu było ukazanie którzy klienci indywidualni robią najrzadziej zakupy w firmie.
 
-# Backend: Przygotowanie widoków w ssms oraz połączenie imion i nazwisk klientów spójną całość. Dodanie nowego widoku w sql fact 2 zawierającej dni pomiędzy ostatnim a przedostatnim zamówieniem klienta.
+#Backend: Przygotowanie widoków w ssms oraz połączenie imion i nazwisk klientów spójną całość. Dodanie nowego widoku w sql fact 2 zawierającej dni pomiędzy ostatnim a przedostatnim zamówieniem klienta.
 
 Połączenie w Power Query tabel facts oraz fact 2 w celu dodania kolumny zawierającej ilość dni pomiędzy ostatnim a wcześniejszym zamówieniem do jednej tabeli, po left outer join połączony za pomocą stworzonego indexu dla każdego wiersza zamówienia.
 
@@ -22,7 +23,7 @@ Widoki:
 - facts ( Tabela zawierające id klienta, daty zamówień oraz wyniki sprzedażowe) główna tabela faktów
 - fact2 ( Tabela zawierająca dni pomiędzy ostatnim zamówieniem klienta a przed ostatnim, oraz jego id)
 
-# Frontend: Model gwiazdy w Power Bi 1 grain - 1 zamówienie klienta,
+#Frontend: Model gwiazdy w Power Bi 1 grain - 1 zamówienie klienta,
 
 Tabele oraz kolumny  stworzone w Power Bi:
 
@@ -52,7 +53,7 @@ zaktualizowana o kolumny:
 - Kolumnę “Months after” pokazującą ile miesięcy później dany klient zrobił kolejne zamówienie potrzebną do analizy kohortowej.
 
 
-# Wykorzystane Wizualizacje: 
+#Wykorzystane Wizualizacje
 
 - Tytuł Dashboardu
 - Slicer spełniający funkcję filtrowania klientów po ich nazwie z opcją wyszukiwania
