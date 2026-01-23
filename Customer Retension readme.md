@@ -6,7 +6,7 @@
 * [Backend](#backend)
 * [Frontend](#frontend)
 * [Wykorzystane Wizualizacje](#wykorzystane-wizualizacje)
-* [BUSINESS INSIGHTS](#buusiness-insights)
+* [Business Insights](#Business-Insights)
 * [Co wyniosłem z tego projektu?](#co-wyniosłem-z-tego-projektu?)
 * [Dodatkowe informacje](#dodatkowe-informacje)
 
@@ -82,7 +82,7 @@ Każdy wiersz reprezentuje grupę klientów, którzy dokonali pierwszego zakupu 
 pozyskanych wcześniej wraca, robiąc ponownie zakupy w firmie. W wizualizacji została użyta heatmapa aby wyszczególnić grupy klientów którzy częściej bądź rzadziej ponawiają zakupy w naszej firmie.
 
 
-# BUSINESS INSIGHTS 
+# Business Insights 
 Wykres "Sales and order quantity by country" Pokazuje że największy wkład mają klienci ze Stanów Zjednoczonych zarówno pod względem ilości zamówień oraz całkowitej zainwestowanej sumy.
 Z wykresu można odczytać również że krajem z którego klienci najmniej inwestują w produkty naszej firmy jest Canada oraz krajem z najmniejszą ilością zamówień są Niemcy.
 
