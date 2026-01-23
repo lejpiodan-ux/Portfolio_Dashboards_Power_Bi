@@ -106,7 +106,7 @@ robią ponowne zakupy średnio co 7 - 8 miesięcy.
 # Co wyniosłem z tego projektu
 Podczas robienia tego dashboardu nauczyłem się korzystać z wizualizacji takich jak matrix, gauge(tachometer), cards+. 
 Dowiedziałem się również jak pozyskiwać nowe wizualizacje, gdy te wbudowane systemowo w Power Bi nie są wystarczające. 
-Na potrzeby koloryzacji ikon, nauczyłem się również korzystać z programu Fffinity, dzięki temu będę mógł wizualizować ikony w dowolny sposób, a potem je eksportować do Power Bi.
+Na potrzeby koloryzacji ikon, nauczyłem się również korzystać z programu Affinity, dzięki temu będę mógł wizualizować ikony w dowolny sposób, a potem je eksportować do Power Bi.
 Nauczyłem się dobierania odpowiedniej palety kolorów, do której posłużyła mi strona:https://coolors.co.
 Nauczyłem się również nowych funkcji w Power Bi: 
 “Remove filters” która działa bardzo podobnie do funkcji “all(tabela)” 
