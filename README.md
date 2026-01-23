@@ -14,3 +14,7 @@ Zapraszam do miłego oglądania
 
 # Favourite project
 "Customer Retention 03" to mój najnowszy i zarazem najambitniejszy projekt, który jak do tej pory stworzyłem. Jestem bardzo zadowolony zarówno pod względem wizualizacji jak i całego jego procesu tworzenia oraz opisu wstawionego na github
+
+# Linki
+Linkedin - https://www.linkedin.com/in/piotr-leja-404bb3260/
+
