@@ -7,7 +7,7 @@
 * [Frontend](#frontend)
 * [Wykorzystane Wizualizacje](#wykorzystane-wizualizacje)
 * [Business Insights](#Business-Insights)
-* [Co wyniosłem z tego projektu?](#co-wyniosłem-z-tego-projektu?)
+* [Co wyniosłem z tego projektu?](#co-wyniosłem-z-tego-projektu)
 * [Dodatkowe informacje](#dodatkowe-informacje)
 
 
@@ -94,7 +94,7 @@ oraz w grudniu, świadczą o tym większe wartości jak np 22% w grudniu dla kli
 robią ponowne zakupy średnio co 7 - 8 miesięcy.
 
 
-# Co wyniosłem z tego projektu?
+# Co wyniosłem z tego projektu
 Podczas robienia tego dashboardu nauczyłem się korzystać z wizualizacji takich jak matrix, gauge(tachometer), cards+. 
 Dowiedziałem się również jak pozyskiwać nowe wizualizacje, gdy te wbudowane systemowo w power bi nie są wystarczające. 
 Na potrzeby koloryzacji ikon, nauczyłem się również korzystać z programu affinity, dzięki temu będę mógł wizualizować ikony w dowolny sposób, a potem je eksportować do Power Bi.
@@ -106,7 +106,7 @@ nauczyłem się  że && oznacza and oraz || oznacza lub.
 Najtrudniejszą rzeczą z którą przyszło mi się mierzyć podczas tego dashboardu, jest niewątpliwie analiza kohortowa, którą robiłem pierwszy raz i spędziłem
 dużo czasu zanim udało mi się stworzyć jej wizualizację. Dowiedziałem się również że można zmieniać rozmiar dashboardu.
 
-#Dodatkowe informacje
+# Dodatkowe informacje
 RFM score punktacja:
 
 Total Sales points: 
