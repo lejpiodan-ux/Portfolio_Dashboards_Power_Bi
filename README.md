@@ -1,7 +1,7 @@
 
 # Portfolio
 Nazywam się Piotr Leja
-od ponad roku pasjonuje się analizą oraz interpretacją danych.
+i od ponad roku pasjonuje się analizą oraz interpretacją danych.
 Korzystam z excela, sql, Power Querry oraz Power Bi.
 Aktualnymi bazami danych z których korzystam są "Northwind" oraz "Adventureworks2017".
 Moim celem jest tworzenie projektów, które jasno i przejrzyście opowiadałyby historie wielu rozproszonych danych oraz skłaniały czytającego do podejmowania szybkich wniosków.
