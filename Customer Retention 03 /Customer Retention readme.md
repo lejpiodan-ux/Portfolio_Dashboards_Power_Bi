@@ -4,7 +4,6 @@
 
 # Customer Retention Project
 
-<img src="Customer_Retention.png_" align="right" alt="Dashboard Preview">
 
 ## Spis treści
 * [Backend](#backend)
@@ -14,7 +13,7 @@
 * [Co wyniosłem z tego projektu?](#co-wyniosłem-z-tego-projektu)
 * [Dodatkowe informacje](#dodatkowe-informacje)
 
-<br clear="right"/>
+
 
 
  Cel Projektu Celem projektu było ukazanie którzy klienci indywidualni robią najrzadziej zakupy w firmie.
