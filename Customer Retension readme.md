@@ -3,13 +3,13 @@
 
 
 ## Spis treści
-* [Cel projektu](#cel-projektu)
-* [Backend](#backend)
-* [Frontend](#frontend)
+* [Cel projektu](#cel-projektu))
+* [Backend](#backend))
+* [Frontend](#frontend))
 * [Wykorzystane Wizualizacje](#wykorzystane-wizualizacje))
-* [BUSINESS INSIGHTS ](#buusiness-insights)
-* [Co wyniosłem z tego projektu?](#co-wyniosłem-z-tego-projektu?)
-* [Dodatkowe informacje](#dodatkowe-informacje)
+* [BUSINESS INSIGHTS ](#buusiness-insights))
+* [Co wyniosłem z tego projektu?](#co-wyniosłem-z-tego-projektu?))
+* [Dodatkowe informacje](#dodatkowe-informacje))
 
 
 # Cel Projektu: Celem projektu było ukazanie którzy klienci indywidualni robią najrzadziej zakupy w firmie.
