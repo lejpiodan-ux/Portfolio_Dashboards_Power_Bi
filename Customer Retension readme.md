@@ -1,9 +1,15 @@
-##Spis treści
-*[Cel projektu](#cel projektu)
 
 
 
-#Cel Projektu: Celem projektu było ukazanie którzy klienci indywidualni robią najrzadziej zakupy w firmie.
+
+## Spis treści
+* [Cel projektu](#cel-projektu)
+* [Backend](#backend)
+* [Frontend](#frontend)
+
+
+
+# Cel Projektu: Celem projektu było ukazanie którzy klienci indywidualni robią najrzadziej zakupy w firmie.
 
 # Backend: Przygotowanie widoków w ssms oraz połączenie imion i nazwisk klientów spójną całość. Dodanie nowego widoku w sql fact 2 zawierającej dni pomiędzy ostatnim a przedostatnim zamówieniem klienta.
 
