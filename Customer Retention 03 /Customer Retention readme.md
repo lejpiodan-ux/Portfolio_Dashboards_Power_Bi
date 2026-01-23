@@ -2,13 +2,15 @@
 
 # Customer Retention Project
 
+<img src="Customer%20Retention.png" align="right" width="400" alt="Dashboard Preview">
 ## Spis treści
 * [Backend](#backend)
 * [Frontend](#frontend)
-* [Wykorzystane Wizualizacje](#wykorzystane-wizualizacje)
+* [Wykorzystane Wizualizacje](#wykorzystane-wizualizacje)                                                     
 * [Wnioski biznesowe](#wnioski-biznesowe)
 * [Co wyniosłem z tego projektu?](#co-wyniosłem-z-tego-projektu)
 * [Dodatkowe informacje](#dodatkowe-informacje)
+<br clear="right"/>
 
 
  Cel Projektu Celem projektu było ukazanie którzy klienci indywidualni robią najrzadziej zakupy w firmie.
