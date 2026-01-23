@@ -4,7 +4,7 @@
 
 # Customer Retention Project
 
-<img src="Customer_Retention.png" align="right" width="400" alt="Dashboard Preview">
+<img src="Customer%20Retention.png" align="right" width="400" alt="Dashboard Preview">
 
 ## Spis treści
 * [Backend](#backend)
