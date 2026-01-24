@@ -1,16 +1,9 @@
 
-# Portfolio
-Nazywam się Piotr Leja
-i od ponad roku pasjonuje się analizą oraz interpretacją danych.
-Korzystam z Excela, Sql, Power Querry oraz Power Bi.
-Aktualnymi bazami danych z których korzystam są "Northwind" oraz "Adventureworks2017".
-Moim celem jest tworzenie projektów, które jasno i przejrzyście opowiadałyby historie wielu rozproszonych danych oraz skłaniały czytającego do podejmowania szybkich wniosków.
-Przedstawiam sekcje Portfolio, która będzie rzeczywistym dowodem moich umiejętności w analizie i wizualizacji danymi.
-W każdym projekcie staram się rozwijać swoją wiedzę oraz uczyć się czegoś nowego.
-Każdy z dashboardów jest ponumerowany według kolejności w jakiej go zrobiłem, pokazuje to 
-analogiczny progres, który udało mi się zrobić odkąd zacząłem uczyć się o wizualizacji danymi.
-Zapraszam do miłego oglądania
-
+# Dashboard Portfolio
+## About
+### Date Release: 10-12-2025 
+### Database -> NORTHWIND
+Sales Performance 01  [Click to go](https://github.com/lejpiodan-ux/Portfolio_Dashboards_Power_Bi/tree/main/Sales%20Performance%2001)
 
 # Favourite project
 "Customer Retention 03" to mój najnowszy i zarazem najambitniejszy projekt, który jak do tej pory stworzyłem. Jestem bardzo zadowolony zarówno pod względem wizualizacji jak i całego jego procesu tworzenia oraz opisu wstawionego na github
