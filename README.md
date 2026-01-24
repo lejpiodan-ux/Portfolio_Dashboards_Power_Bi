@@ -1,6 +1,15 @@
 
 # Dashboard Portfolio
 
+List
+### Project List
+
+| Project Name | Preview | Details |
+| :--- | :---: | :--- |
+| **Sales Performance 01** | <img src="https://github.com/lejpiodan-ux/Portfolio_Dashboards_Power_Bi/blob/main/Sales%20Performance%2001/Sales%20Performance.png width="150"> | **Database:** NORTHWIND <br> **Release:** 10-12-2025 |
+| **Total Sales 02** | <img src="link_do_zdjecia_2.png" width="150"> | **Database:** Adventureworks2017 <br> **Release:** 14-01-2025 |
+| **Customer Retention 03** | <img src="link_do_zdjecia_3.png" width="150"> | **Database:** Adventureworks2017 <br> **Release:** 23-01-2025 |
+
 ## About
 
 ## Project Name: Sales Performance 01
