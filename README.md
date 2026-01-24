@@ -3,8 +3,8 @@
 ## About
 ### Project Name: 
 Sales Performance 01  [Click to go](https://github.com/lejpiodan-ux/Portfolio_Dashboards_Power_Bi/tree/main/Sales%20Performance%2001)
-Date Release: 10-12-2025 
-Database -> NORTHWIND
+# Date Release: 10-12-2025 
+# Database -> NORTHWIND
 
 
 # Favourite project
