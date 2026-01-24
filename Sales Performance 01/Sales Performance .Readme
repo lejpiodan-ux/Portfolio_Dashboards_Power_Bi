@@ -50,3 +50,51 @@ Wszystkie Wykresy oraz miary KPI mają wyłączoną opcje filtrowania innych wiz
 Dashboard zrobiony na potrzeby portfolio Analityka danych.
 Autor: Piotr Leja
 
+# English
+## Title Sales Performance 01
+## Problem Description
+
+The Dashboard is designed to answer key questions:
+##### What is current sales and its dynamics
+##### Which products and categories are generating best incomes
+##### Which employes are generating the highest number of orders
+##### What does on-time delivery look like?
+##### What is the change of sales month over month
+##### Are customers coming back ?
+##### How fast orders are done
+
+## Visualizations
+
+Dashboard contains:
+##### 2 Slicers (Month and Year)
+##### 7 KPI card measures
+##### Line chart month-over-month
+##### Column bar chart "Top 5 Categories by Total Sales
+##### Table "Top 5 employes by Total Order Count"
+
+### KPI Cards
+
+##### Revenue - Total Sales
+##### Average Order Value - Average value of single order
+##### Gross Margin % - Gross Margin %
+##### Gross Profit - Gross profit
+##### On-Time-Delivery  percent of orders delivered on time
+##### Customer Retention - Company Capability to retain customers
+##### Average Lead Time Days - Average time of delivery realization
+
+### Diagrams and Charts
+
+### Month-over-Month
+Showed by line chart to show monthly sales, dynamics in that period of time and 
+change in trend, after filtering by "Year" slicer
+Chart MOM is independent from slicer "Month". 
+
+### Top 5 categories by Total Sales
+Returns which categories are best selling in profit.
+In chart area also works filter "TOP N" by "Total Sales". The reason is to return best 5 scores for 5 best categories
+
+ 
+
+
+
+
