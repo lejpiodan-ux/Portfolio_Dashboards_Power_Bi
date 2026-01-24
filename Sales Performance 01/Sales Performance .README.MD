@@ -3,14 +3,14 @@
 Użyta Baza danych: Northwind
 
  ## Opis Problemu
-    Dashboard ma za zadanie odpowiedzieć na kluczowe pytania:
-      * Jak wygląda aktualna sprzedaż i jej dynamika
-      * Które produkty i kategorie przynoszą największe przychody
-      * Jacy pracownicy generują najwięcej zamówień
-      * Jak wygląda terminowość dostaw 
-      * Jak zmieniają się wyniki miesiąc do miesiąca
-      * Czy klienci wracają do firmy
-      * Jak szybko realizowane są zamówienia
+   Dashboard ma za zadanie odpowiedzieć na kluczowe pytania:
+   * Jak wygląda aktualna sprzedaż i jej dynamika
+   * Które produkty i kategorie przynoszą największe przychody
+   * Jacy pracownicy generują najwięcej zamówień
+   * Jak wygląda terminowość dostaw 
+   * Jak zmieniają się wyniki miesiąc do miesiąca
+   * Czy klienci wracają do firmy
+   * Jak szybko realizowane są zamówienia
 
 
 ## Wizualizacje
