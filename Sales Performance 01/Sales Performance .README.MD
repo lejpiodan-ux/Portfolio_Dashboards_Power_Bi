@@ -14,22 +14,21 @@ Użyta Baza danych: Northwind
 
 
 ## Wizualizacje
-
-   ##### Dashboard zawiera: 2 slicery dla filtrowania miesiąca oraz roku
-   ##### 7 miar KPI,
-   ##### Wykres liniowy MOM
-   ##### Wykres kolumnowy "TOP 5 categories by Total Sales"
-   ##### Tabele "Top 5 employees by Total order Count"
+ ##### Dashboard zawiera: 2 slicery dla filtrowania miesiąca oraz roku
+ ##### 7 miar KPI,
+ ##### Wykres liniowy MOM
+ ##### Wykres kolumnowy "TOP 5 categories by Total Sales"
+ ##### Tabele "Top 5 employees by Total order Count"
 
 ### KPI Kluczowe wskaźniki efektywności
    KPI Zawiera kluczowe miary:
-       ##### Revenue  łączna wartość sprzedaży
-       ##### Average Order Value (AOV)  Średnia wartość jednego zamówienia
-       ##### Gross Margin %  Marża Brutto %
-       ##### Gross Profit  Zysk Brutto
-       ##### On-Time Delivery (OTD) % Zamówień dostarczonych na czas
-       ##### Customer Retention %  Zdolność firmy do utrzymania klientów
-       ##### Average Lead Time Days (Avg. LTD) - Średni czas realizacji dostaw
+   ##### Revenue  łączna wartość sprzedaży
+   ##### Average Order Value (AOV)  Średnia wartość jednego zamówienia
+   ##### Gross Margin %  Marża Brutto %
+   ##### Gross Profit  Zysk Brutto
+   ##### On-Time Delivery (OTD) % Zamówień dostarczonych na czas
+   ##### Customer Retention %  Zdolność firmy do utrzymania klientów
+   ##### Average Lead Time Days (Avg. LTD) - Średni czas realizacji dostaw
 
 ### Diagramy i reszta wizualizacji
 
