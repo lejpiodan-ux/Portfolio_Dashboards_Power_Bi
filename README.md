@@ -1,17 +1,17 @@
 
 # Dashboard Portfolio
 ## About
-### Project Name: 
+## Project Name: 
 Sales Performance 01  [Click to go](https://github.com/lejpiodan-ux/Portfolio_Dashboards_Power_Bi/tree/main/Sales%20Performance%2001)
 #### Date Release: 10-12-2025 
 #### Database -> NORTHWIND
 
-### Project Name:
+##  Project Name:
 Total Sales 02 [Click to go](https://github.com/lejpiodan-ux/Portfolio_Dashboards_Power_Bi/tree/main/Total%20Sales%2002%20)
 #### Date Release : 14-01-2025
 #### Database -> Adventureworks2017
 
-### Project Name:
+##  Project Name:
 Customer Retention 03 [Click to go](https://github.com/lejpiodan-ux/Portfolio_Dashboards_Power_Bi/tree/main/Customer%20Retention%2003%20)
 #### Date Release : 23-01-2025
 #### Database -> Adventureworks2017
