@@ -45,12 +45,12 @@ Wykres "MoM" jest niezależny od slicera "Month".
 
  ### "Top 5 Employees by Total Order Count" 
    Jest to tabela zawierajaca kolumny:
-       ##### Employee Name
-       ##### Employee Name
-       ##### Total Sales
-       ##### Order Count
-       ##### Monthly Order Change % 
-       ##### Total Order Count
+   ##### Employee Name
+   ##### Employee Name
+   ##### Total Sales
+   ##### Order Count
+   ##### Monthly Order Change % 
+   ##### Total Order Count
 
    Pozwala łatwo zweryfikować 5 Najlepszych Sprzedawców pod względem ilości zamówień. Kolumna "Order count"zlicza ilość        zamówień dla podanego miesiąca oraz roku. 
    Kolumna "Monthly Order Change" pokazuje kolorystyczną zmianę % względem ilości zamówień z poprzednim miesiącem. Kolumna     "Total Order Count" przedstawia natomiast całkowitą ilość zamówień dla każdego pracownika od początku jego istnienia w      firmie.
@@ -71,41 +71,41 @@ Autor: Piotr Leja
 ## Title Sales Performance 01
 Used Database: Northwind
 
-   ## Problem Description
-      The Dashboard is designed to answer key questions:
-      ##### What is current sales and its dynamics
-      ##### Which products and categories are generating best incomes
-      ##### Which employee are generating the highest number of orders
-      ##### What does on-time delivery look like?
-      ##### What is the change of sales month over month
-      ##### Are customers coming back ?
-      ##### How fast orders are done
+ ## Problem Description
+   The Dashboard is designed to answer key questions:
+   ##### What is current sales and its dynamics
+   ##### Which products and categories are generating best incomes
+   ##### Which employee are generating the highest number of orders
+   ##### What does on-time delivery look like?
+   ##### What is the change of sales month over month
+   ##### Are customers coming back ?
+   ##### How fast orders are done
 
 ## Visualizations
 
    Dashboard contains:
-     ##### 2 Slicers (Month and Year)
-     ##### 7 KPI card measures
-     ##### Line chart month-over-month
-     ##### Column bar chart "Top 5 Categories by Total Sales
-     ##### Table "Top 5 employee by Total Order Count"
+   ##### 2 Slicers (Month and Year)
+   ##### 7 KPI card measures
+   ##### Line chart month-over-month
+   ##### Column bar chart "Top 5 Categories by Total Sales
+   ##### Table "Top 5 employee by Total Order Count"
 
 ### KPI Cards
 
-     ##### Revenue - Total Sales
-     ##### Average Order Value - Average value of single order
-     ##### Gross Margin % - Gross Margin %
-     ##### Gross Profit - Gross profit
-     ##### On-Time-Delivery  percent of orders delivered on time
-     ##### Customer Retention - Company Capability to retain customers
-     ##### Average Lead Time Days - Average time of delivery realization
+ ##### Revenue - Total Sales
+ ##### Average Order Value - Average value of single order
+ ##### Gross Margin % - Gross Margin %
+ ##### Gross Profit - Gross profit
+ ##### On-Time-Delivery  percent of orders delivered on time
+ ##### Customer Retention - Company Capability to retain customers
+ ##### Average Lead Time Days - Average time of delivery realization
 
 ### Diagrams and Charts
 
-   ### Month-over-Month
-   Showed by line chart to show monthly sales, dynamics in that period of time and 
-   change in trend, after filtering by "Year" slicer
-   Chart MOM is independent from slicer "Month". 
+### Month-over-Month
+Showed by line chart to show monthly sales, dynamics in that period of time and 
+change in trend, after filtering by "Year" slicer
+Chart MOM is independent from slicer "Month". 
 
 ### Top 5 categories by Total Sales
    Returns which categories are best selling in profit.
@@ -113,15 +113,16 @@ Used Database: Northwind
    Chart is integrated with slicers "Month" and "year", to quickly verify the best sales results for individual month and      year.
    
 ### Top 5 employee by Total Order Count
-   Is containing below columns:
-     ##### Employee name
-     ##### Total Sales
-     ##### Order Count
-     ##### Monthly Order Change %
-     ##### Total Order COUNT
-   Let to fast check 5 best sellers by number of orders. 
-   Colum Monthly Order change presents coloristic percent change in reference to number of orders in the previous month. 
-   Column Total Order Count presents whole quantity of orders for each employee from since the beginning of its existence      in the company. Chart is working with filter Top N as TOP 5 for column " Employee name"
+ Is containing below columns:
+ ##### Employee name
+ ##### Total Sales
+ ##### Order Count
+ ##### Monthly Order Change %
+ ##### Total Order COUNT
+
+ Let to fast check 5 best sellers by number of orders. 
+ Colum Monthly Order change presents coloristic percent change in reference to number of orders in the previous month. 
+ Column Total Order Count presents whole quantity of orders for each employee from since the beginning of its existence      in the company. Chart is working with filter Top N as TOP 5 for column " Employee name"
 
 ## Info
 
