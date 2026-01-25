@@ -10,8 +10,8 @@
 * [Frontend](#frontend)
 * [Wykorzystane Wizualizacje](#wykorzystane-wizualizacje)
 * [Business Inqights](Business_Inqights)
-* [What i learned in this project](#What_i_learned_in_this_project)
-* [Additional Informations](#Additional_Informations)
+* [Co wyniosłem z tego projektu](#Co_wyniosłem_z_tego_projektu)
+* [Dodatkowe informacje](#Dodatkowe_informacje)
 
 
 
@@ -147,9 +147,9 @@ x < 2 = 0 punktów
 * [Backend](#backend)
 * [Frontend](#frontend)
 * [Used_visualizations](#Used_visualizations)
-* [Wnioski biznesowe](#wnioski-biznesowe)
-* [Co wyniosłem z tego projektu?](#co-wyniosłem-z-tego-projektu)
-* [Dodatkowe informacje](#dodatkowe-informacje)
+* [Business Inqights](#Business_Inqights)
+* [What i learned in this project](#What_i_learned_in_this_project)
+* [Additional Informations](#Additional_Informations)
 
 
 The main objective of this project was a highlight of which individual customers make less often shopping in company.
