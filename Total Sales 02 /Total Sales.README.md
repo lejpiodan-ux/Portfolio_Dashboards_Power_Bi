@@ -1,7 +1,8 @@
+# Title: Total Sales 02
 Cel Dashboardu: Zwrócić uwagę na całkowitą sprzedaż produktów firmy. Porównać ją z innymi okresami, oraz ukazać co sprzedaje się najlepiej.
 Źródło danych: Publiczna baza danych AdventureWorks2017
 
-BACKEND: Przygotowanie Widoków w SSMS aby zoptymalizować dane przed transportem do Power Bi 
+# BACKEND: Przygotowanie Widoków w SSMS aby zoptymalizować dane przed transportem do Power Bi 
 
 Widoki wykonane w SSMS:
 - DIM CATEGORY (Prosty Widok pobierający kategorie produktów)
@@ -9,13 +10,13 @@ Widoki wykonane w SSMS:
 - FACTS ( Połączone tabele Sales order detail oraz sales order header w celu wyodrębnienia potrzebnych
   kluczy id, oraz wartości i dat zamówień. Dodane where soh.status = 5 aby wziąć pod uwagę tylko te sfinalizowane zamówienia żeby uniknąć błędnych danych
 
-FRONTEND: Model gwiazdy w Power Bi, Grain : 1 wiersz = 1 order,tabele wizualizacyje ustawione w relacji one to many 1->* 
+# FRONTEND: Model gwiazdy w Power Bi, Grain : 1 wiersz = 1 order,tabele wizualizacyje ustawione w relacji one to many 1->* 
 
 Tabele wykonane w Power bi:
 Dim DATE ( kalendarz zrobiony na podstawie przedziału z minimalnej daty z kolumny orderdate do maksymalnej daty)
 KPI MEASURES( Uporządkowane miary Kpi zebyrane w jednym miejscu)
 
-Wizualizacja:
+# Wizualizacja:
 
 Power Bi Miary KPI:
 - Total Sales (całkowita sprzedaż)
@@ -29,6 +30,8 @@ Power Bi Miary KPI:
   - Pie chart ( Pokazuje udział poszczególnych kategorii w całkowitej sprzedaży)
   - Treemap ( Dostarcza informacji w którym z krajów jest kupowane najwięcej przedmiotów)
   - Tabela z filrem TopN ( ukazująca 20 najbardziej dochodowych Przedmiotów w celu przedstawienia co klienci kupują najchętniej)
+    
+# Czego się nauczyłem?
 
 Podczas tworzenia tego dashboardu, nauczyłem jak się robić Widoki w SQL, Oraz jak porządkować miary stworzone w power Bi. 
 Nauczyłem się również tego czym jest GRAIN i jak ważne jest odpowiendnie zaplanowanie tabel w sql na początku rozpoczęcia projektu, aby później
@@ -75,7 +78,6 @@ Used visuals:
 * Table with TOP N filter ( Shows top 20 most profitable products. Gives informations about customers interest
 
 
-# Business Insights
 
 # What I Learned in this project
 
