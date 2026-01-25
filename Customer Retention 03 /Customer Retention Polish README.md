@@ -69,12 +69,13 @@ zaktualizowana o kolumny:
 - Slicer spełniający funkcję filtrowania klientów po ich nazwie z opcją wyszukiwania
 - Card zawierający informacje o id klienta
 - 6x Kpi card zawierających informacje o :
-              - Ostatniej dacie zamówienia wybranego klienta
-              - Statusie klienta
-              - Całkowitej sumie jaką klient musiał wydać z uwzględnieniem podatków oraz kosztem transportu
-              - Recency ( dni od ostatniego zamówienia)
-              - RFM Score
-              - Ilości zamówień klienta
+   * Ostatniej dacie zamówienia wybranego klienta
+   * Statusie klienta
+   * Całkowitej sumie jaką klient musiał wydać z uwzględnieniem podatków oraz kosztem transportu
+   * Recency ( dni od ostatniego zamówienia)
+   * RFM Score
+   * Ilości zamówień klienta
+   * 
 Do kpi ilościowych zostały dodane również ikonki symbolizujące każdy z kpi ze strony https://www.flaticon.com
 
 - Gauge pokazujący procent klientów których całkowita suma zakupu produktów jest mniejsza niż wybranego klienta. Pozwalający ukazać ingerencję zakupową Klienta na tle innych klientów.
