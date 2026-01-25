@@ -63,16 +63,16 @@ And different tables:
   * Column "Months after" showing how many months after current customer has next purchase. Its needed for Cohort analysis
 
 # Used visualizations
-- Name of the dashboard
-- Filtering slicer with customer name filter and search bar option
-- Card including informations about customer id
-- 6x Kpi cards containing informations about:
-             - Last order date for selected customer
-             - Customer status
-             - Total sum of purchase which customer had to spend on each order ( with taxes and freight)
-             - Recency (days from last order)
-             - RFM Score
-             - Quantity of customer orders
+* Name of the dashboard
+* Filtering slicer with customer name filter and search bar option
+* Card including informations about customer id
+* 6x Kpi cards containing informations about:
+             ** Last order date for selected customer
+             ** Customer status
+             ** Total sum of purchase which customer had to spend on each order ( with taxes and freight)
+             ** Recency (days from last order)
+             ** RFM Score
+             ** Quantity of customer orders
 For quantitive Kpi are also added icons symbolizing every kpi. Download from https://www.flaticon.com
 
 - Gauge presenting percent of customers whose total purchase sum of products is less than for selected customer.
