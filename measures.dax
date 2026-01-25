@@ -1,6 +1,7 @@
 
 
-//FORMUŁA TWORZĄCA KALENDARZ (DIM DATE):
+FORMUŁA TWORZĄCA KALENDARZ (DIM DATE)
+
 dim date = 
 ADDCOLUMNS(
     calendar(
