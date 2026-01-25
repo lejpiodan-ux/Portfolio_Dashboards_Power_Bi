@@ -4,7 +4,7 @@
 * [Backend](#backend)
 * [Frontend](#frontend)
 * [Used_visualizations](#used-visualizations)
-* [Business Insights](#business-inqights)
+* [Business Insights](#business-insights)
 * [What i learned in this project](#what-i-learned-in-this-project)
 * [Additional Informations](#additional-Informations)
 
