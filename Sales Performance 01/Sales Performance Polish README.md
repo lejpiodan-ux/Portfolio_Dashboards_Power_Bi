@@ -45,7 +45,7 @@ Wykres "MoM" jest niezależny od slicera "Month".
    Wykres kolumnowy pokazujący, które kategorie produktów są najbardziej dochodowe. Na wykres jest nałożony filtr "Top N"      By "Total Sales", po to aby filtrowane było tylko 5 najlepszych wyników  sprzedażowych dla 5 najlepszych kategorii.
    Wykres objęty jest działaniem slicerów "Month" oraz "Year" aby móc szybko zweryfikować najlepsze wyniki sprzedażowe dla     danego miesiąca oraz roku
 
- #####"Top 5 Employees by Total Order Count" 
+ ##### "Top 5 Employees by Total Order Count" 
    Jest to tabela zawierajaca kolumny:
    * Employee Name
    * Employee Name
