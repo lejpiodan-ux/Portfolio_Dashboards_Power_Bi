@@ -5,9 +5,9 @@
 ## Spis treści
 * [Backend](#backend)
 * [Frontend](#frontend)
-* [Wykorzystane Wizualizacje](#wykorzystane_wizualizacje)
-* [Wnioski biznesowe](#wnioski_biznesowe )
-* [Co wyniosłem z tego projektu](#co_wyniosłem_z_tego_projektu)
+* [Wykorzystane Wizualizacje](#wykorzystane-wizualizacje)
+* [Wnioski biznesowe](#wnioski-biznesowe)
+* [Co wyniosłem z tego projektu](#co-wyniosłem-z-tego-projektu)
 * [Dodatkowe informacje](#dodatkowe-informacje)
 
 
