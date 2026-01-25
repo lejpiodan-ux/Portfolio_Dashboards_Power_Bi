@@ -1,0 +1,50 @@
+
+
+//FORMUŁA TWORZĄCA KALENDARZ (DIM DATE):
+dim date = 
+ADDCOLUMNS(
+    calendar(
+             min('Fact'[OrderDate]),
+             max('Fact'[OrderDate])
+           ),
+    "Year",YEAR([Date]),
+    "Month",Month([Date]),
+    "Date fullname",(FORMAT([Date],"mmmm")
+    )
+)
+
+
+
+TOTAL SALES:
+Total sales = sum('Fact'[SalesAmount])
+
+
+YOY TOTAL SALES:
+yoy total sales = 
+CALCULATE([Total sales],SAMEPERIODLASTYEAR('dim date'[Date]))
+
+
+
+%YOY:
+%Yoy = 
+DIVIDE([Total sales]-[yoy total sales],[yoy total sales],0)
+
+
+ORDER COUNT:
+order count = 
+DISTINCTCOUNT('Fact'[SalesOrderID])
+
+
+
+AVERAGE ORDER VALUE:
+Average Order Value = 
+AVERAGE('Fact'[SalesAmount])
+
+
+
+
+
+
+
+
+
