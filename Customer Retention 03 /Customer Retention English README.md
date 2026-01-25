@@ -33,7 +33,7 @@ Star schema in Power Bi 1 grain - 1 customer order
 
 Tables and columns created in Power Bi:
 
-*Calendar table:
+Calendar table:
 - Containing column with dates since 01.01.2011 to 31.12.2014
 - Year
 - Verbal name of the month
