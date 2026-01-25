@@ -1,6 +1,6 @@
 # Tytuł: Total Sales 02
 Cel Dashboardu: Zwrócić uwagę na całkowitą sprzedaż produktów firmy. Porównać ją z innymi okresami, oraz ukazać co sprzedaje się najlepiej.
-Źródło danych: Publiczna baza danych AdventureWorks2017
+Źródło danych: publiczna baza danych AdventureWorks2017
 
 # BACKEND
 Przygotowanie Widoków w SSMS aby zoptymalizować dane przed transportem do Power Bi 
@@ -16,23 +16,23 @@ Model gwiazdy w Power Bi, Grain : 1 wiersz = 1 order.
 Tabele wizualizacyje ustawione w relacji one to many 1->* 
 
 Tabele wykonane w Power bi:
-*Dim DATE ( kalendarz zrobiony na podstawie przedziału z minimalnej daty z kolumny orderdate do maksymalnej daty)
-*KPI MEASURES( Uporządkowane miary Kpi zebyrane w jednym miejscu)
+* Dim DATE ( kalendarz zrobiony na podstawie przedziału z minimalnej daty z kolumny orderdate do maksymalnej daty)
+* KPI MEASURES( Uporządkowane miary Kpi zebyrane w jednym miejscu)
 
 # Wizualizacja:
 
 Power Bi Miary KPI:
 * Total Sales (całkowita sprzedaż)
-* Total Sales Year-Over-Year% ( miara pokazująca procentową zmianę w porównaniu z okresem z przed roku )
-* Average Order Value ( średnia wartość zamóienia)
-* Order Count( ilość zamówień)
+* Total Sales Year-Over-Year% ( miara pokazująca procentową zmianę w porównaniu z okresem z przed roku)
+* Average Order Value (średnia wartość zamóienia)
+* Order Count (ilość zamówień)
 
   Wykorzystanie wizuali:
   * Filtry Roczne oraz miesięczne
-  * Line chart ( Pokazujący rysujący się trend sprzedaży całkowitej w porównaniu rocznym, jest wykluczony przez slicer miesięczny)
-  * Pie chart ( Pokazuje udział poszczególnych kategorii w całkowitej sprzedaży)
-  * Treemap ( Dostarcza informacji w którym z krajów jest kupowane najwięcej przedmiotów)
-  * Tabela z filrem TopN ( ukazująca 20 najbardziej dochodowych Przedmiotów w celu przedstawienia co klienci kupują najchętniej)
+  * Line chart (Pokazujący rysujący się trend sprzedaży całkowitej w porównaniu rocznym, jest wykluczony przez slicer miesięczny)
+  * Pie chart (Pokazuje udział poszczególnych kategorii w całkowitej sprzedaży)
+  * Treemap (Dostarcza informacji w którym z krajów jest kupowane najwięcej przedmiotów)
+  * Tabela z filrem TopN (ukazująca 20 najbardziej dochodowych Przedmiotów w celu przedstawienia co klienci kupują najchętniej)
     
 # Czego się nauczyłem?
 
