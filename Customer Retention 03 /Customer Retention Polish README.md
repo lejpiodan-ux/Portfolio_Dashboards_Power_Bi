@@ -69,13 +69,14 @@ zaktualizowana o kolumny:
 - Slicer spełniający funkcję filtrowania klientów po ich nazwie z opcją wyszukiwania
 - Card zawierający informacje o id klienta
 - 6x Kpi card zawierających informacje o :
+  
    * Ostatniej dacie zamówienia wybranego klienta
    * Statusie klienta
    * Całkowitej sumie jaką klient musiał wydać z uwzględnieniem podatków oraz kosztem transportu
    * Recency ( dni od ostatniego zamówienia)
    * RFM Score
    * Ilości zamówień klienta
-   * 
+    
 Do kpi ilościowych zostały dodane również ikonki symbolizujące każdy z kpi ze strony https://www.flaticon.com
 
 - Gauge pokazujący procent klientów których całkowita suma zakupu produktów jest mniejsza niż wybranego klienta. Pozwalający ukazać ingerencję zakupową Klienta na tle innych klientów.
@@ -118,24 +119,24 @@ RFM score punktacja:
 
 Total Sales points: 
 
-x > 5000 = 3 punkty
-x > 1000 = 2 punkty
-x >= 100 = 1 punkt
-x < 100 = 0 punktów
+* x > 5000 = 3 punkty
+* x > 1000 = 2 punkty
+* x >= 100 = 1 punkt
+* x < 100 = 0 punktów
 
 Recency points
 
-x > 0 lub x<90 = 3 punkty  Są dwa warunki ponieważ jest dużo wyników 0 które oznaczają że klient nie zrobił drugiego zamówienia. Na tej podstawie punkty zostałyby rozdysponowane nieprawidłowo
-x >= 90 = 2 punkty
-x > 180 = 1 punkt
-x > 360 = 0 punktów
+* x > 0 lub x<90 = 3 punkty  Są dwa warunki ponieważ jest dużo wyników 0 które oznaczają że klient nie zrobił drugiego zamówienia. Na tej podstawie punkty zostałyby rozdysponowane nieprawidłowo
+* x >= 90 = 2 punkty
+* x > 180 = 1 punkt
+* x > 360 = 0 punktów
 
 Order quantity points
 
-x > 8 =3 punkty
-x > 4 =2 punkty
-x > 2 = 1 punkt
-x < 2 = 0 punktów
+* x > 8 =3 punkty
+* x > 4 =2 punkty
+* x > 2 = 1 punkt
+* x < 2 = 0 punktów
 
 Projekt zrobiony jako część portfolio Analityka danych przez Piotr Leja
 
