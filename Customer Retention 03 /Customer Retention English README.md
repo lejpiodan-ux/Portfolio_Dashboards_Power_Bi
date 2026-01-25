@@ -3,10 +3,10 @@
 
 * [Backend](#backend)
 * [Frontend](#frontend)
-* [Used_visualizations](#Used_visualizations)
-* [Business Inqights](#Business_Inqights)
-* [What i learned in this project](#What_i_learned_in_this_project)
-* [Additional Informations](#Additional_Informations)
+* [Used_visualizations](#used-visualizations)
+* [Business Insights](#business-inqights)
+* [What i learned in this project](#what-i-learned-in-this-project)
+* [Additional Informations](#additional-Informations)
 
 
 The main objective of this project was to highlight of which individual customers make less often shopping in company.
@@ -83,7 +83,7 @@ Its showing post-purchase interference of customer compared to other customers.
 - Matrix- "Cohort Analysis for new customers in 2013" - Analysis measures retency indicator for customers the company gained in 2013 year. Each row is representing group of customers, whose made his first order in each month. Columns from 1-12 shows which percent of customers gained earlier is coming back, making next orders in company. In visualization is used a heatmap, to highlight groups of customers whose are making orders more often or rarely.
 
 
-# Business Inqights
+# Business Insights
 Chart "Sales and order quantity by country" is presenting that the biggest contribution have customers from United States both in terms of the number of orders and the total amount invested.
 In chart we can observe that customers are investing the least  in Canada and that Germany is a country with the least order quantity.
 
