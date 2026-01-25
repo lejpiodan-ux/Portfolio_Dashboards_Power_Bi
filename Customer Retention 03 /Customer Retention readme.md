@@ -9,9 +9,9 @@
 * [Backend](#backend)
 * [Frontend](#frontend)
 * [Wykorzystane Wizualizacje](#wykorzystane-wizualizacje)
-* [Wnioski biznesowe](#wnioski-biznesowe)
-* [Co wyniosłem z tego projektu?](#co-wyniosłem-z-tego-projektu)
-* [Dodatkowe informacje](#dodatkowe-informacje)
+* [Business Inqights](Business_Inqights)
+* [What i learned in this project](#What_i_learned_in_this_project)
+* [Additional Informations](#Additional_Informations)
 
 
 
@@ -146,7 +146,7 @@ x < 2 = 0 punktów
 ## Spis treści
 * [Backend](#backend)
 * [Frontend](#frontend)
-* [Wykorzystane Wizualizacje](#wykorzystane-wizualizacje)
+* [Used_visualizations](#Used_visualizations)
 * [Wnioski biznesowe](#wnioski-biznesowe)
 * [Co wyniosłem z tego projektu?](#co-wyniosłem-z-tego-projektu)
 * [Dodatkowe informacje](#dodatkowe-informacje)
