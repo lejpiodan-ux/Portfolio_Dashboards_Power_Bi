@@ -34,7 +34,7 @@ Użyta Baza danych: Northwind
 
 ### Diagramy i reszta wizualizacji
 
-### Month-over-Month ukazany za pomocą wykresu liniowego, który przedstawia:
+##### Month-over-Month ukazany za pomocą wykresu liniowego, który przedstawia:
  * aktualną sprzedaż miesięczną
  * dynamikę miesiąc-do-miesiąca
  * zmianę w trendzie po wybraniu odpowiedniego filtra dla slicera Year
