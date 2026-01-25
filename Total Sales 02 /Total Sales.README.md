@@ -12,7 +12,8 @@ Widoki wykonane w SSMS:
   kluczy id, oraz wartości i dat zamówień. Dodane where soh.status = 5 aby wziąć pod uwagę tylko te sfinalizowane zamówienia żeby uniknąć błędnych danych
 
 # FRONTEND
-Model gwiazdy w Power Bi, Grain : 1 wiersz = 1 order,tabele wizualizacyje ustawione w relacji one to many 1->* 
+Model gwiazdy w Power Bi, Grain : 1 wiersz = 1 order.
+Tabele wizualizacyje ustawione w relacji one to many 1->* 
 
 Tabele wykonane w Power bi:
 Dim DATE ( kalendarz zrobiony na podstawie przedziału z minimalnej daty z kolumny orderdate do maksymalnej daty)
