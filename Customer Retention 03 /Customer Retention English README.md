@@ -1,5 +1,5 @@
 
-## Contents page
+# Contents page
 
 * [Backend](#backend)
 * [Frontend](#frontend)
