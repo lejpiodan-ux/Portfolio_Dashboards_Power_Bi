@@ -17,7 +17,7 @@ Tabele wizualizacyje ustawione w relacji one to many 1->*
 
 Tabele wykonane w Power bi:
 * Dim DATE ( kalendarz zrobiony na podstawie przedziału z minimalnej daty z kolumny orderdate do maksymalnej daty)
-* KPI MEASURES( Uporządkowane miary Kpi zebyrane w jednym miejscu)
+* KPI MEASURES( Uporządkowane miary Kpi zebrane w jednym miejscu)
 
 # Wizualizacja:
 
