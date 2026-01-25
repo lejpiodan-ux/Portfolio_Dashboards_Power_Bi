@@ -1,17 +1,14 @@
 
-
-
-
 # Customer Retention Project
 
 
 ## Spis treści
 * [Backend](#backend)
 * [Frontend](#frontend)
-* [Wykorzystane Wizualizacje](#wykorzystane-wizualizacje)
+* [Wykorzystane Wizualizacje](#wykorzystane_wizualizacje)
 * [Wnioski biznesowe](#wnioski_biznesowe )
 * [Co wyniosłem z tego projektu](#co_wyniosłem_z_tego_projektu)
-* [Dodatkowe informacje](#dodatkowe_informacje)
+* [Dodatkowe informacje](#dodatkowe-informacje)
 
 
 
