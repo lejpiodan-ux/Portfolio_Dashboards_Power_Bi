@@ -1,5 +1,5 @@
 Cel Dashboardu: Zwrócić uwagę na całkowitą sprzedaż produktów firmy. Porównać ją z innymi okresami, oraz ukazać co sprzedaje się najlepiej.
-Źródło danych: Publiczna baza danych Adventure Works
+Źródło danych: Publiczna baza danych AdventureWorks2017
 
 BACKEND: Przygotowanie Widoków w SSMS aby zoptymalizować dane przed transportem do Power Bi 
 
@@ -13,7 +13,7 @@ FRONTEND: Model gwiazdy w Power Bi, Grain : 1 wiersz = 1 order,tabele wizualizac
 
 Tabele wykonane w Power bi:
 Dim DATE ( kalendarz zrobiony na podstawie przedziału z minimalnej daty z kolumny orderdate do maksymalnej daty)
-KPI MEASURES( Tabela zawierająca miary pisane w Daxie, aby były uporządkowane w jednym miejscu)
+KPI MEASURES( Uporządkowane miary Kpi zebyrane w jednym miejscu)
 
 Wizualizacja:
 
@@ -38,132 +38,49 @@ Zrozumiałem też dokładnie jak działa model danych, oraz to  jak powinny być
 Poznałem również bardzo przydatną stronę która umożliwia import różnych obrazków bezpośrednio do power BI https://www.flaticon.com/search
 
 
+# English
+Main goal of this dashboard is to pay attention on total sales of products. Compare it in periods of time and show what sells best.
+Database: Adventureworks2017
+
+# Backend
+Preparation of views in sql to optimization data before power bi import.
+
+Views :
+* Dim Category ( simple view with product categories)
+* Dim country ( Usage of "Union all" for connecting two tables for individual customers (personid) and stores (storeid)
+* Facts (combined tables  "Sales order details", "Sales order header" for extraction needed is keys, values and dates. Added "where soh.status = 5 " to take only finalised orders, to avoid incorrect data
+
+# Frontend
+Star schema in Power bi, 1 grain =1 order. Tables set in relation 1 -> many
+
+Tables made in Power Bi
+* Dim date (Calendar created from minimum orderdate to maximum date)
+* Kpi measures( All Kpi measure formulas gathered in one area )
+
+
+# Used visualizations
+
+Power Bi Kpi:
+* Total Sales ( Total sales)
+* Total Sales Year-Over-Year% ( measure shows % change in comparison with period one year ago)
+* Average Order Value ( Average value of unit order)
+* Order Count (Total amount of orders)
+
+Used visuals:
+
+* Year and Monthly filters
+* Line chart ( Shows total sales trend in yearly comparison. Is independent by monthly slicer
+* Pie chart ( Shows participation of different categories in total sales)
+* Treemap ( Gives informations which country have the most products bought)
+* Table with TOP N filter ( Shows top 20 most profitable products. Gives informations about customers interest
+
+
+# Business Insights
+
+# What I Learned in this project
+
+By making this dashboard I learn how to do Views in Sql, and how to keep all measures in one area.
+I learned also what is a "Grain" and how important is proper planning of tables in sql on the beginnings, and avoid problems with
+duplicaions later on in Power Bi. I know new terms like "Backend","Frontend","Mockup". I realised how data model should be build, and
+how table facts should look (only id's and calculations). I Found out also very helpful internet site to getting matching icons https://www.flaticon.com/search
   =========================================================================================================================================================================================
-Wykorzystane formuły
-Power Bi:
-
-FORMUŁA TWORZĄCA KALENDARZ (DIM DATE):
-dim date = 
-ADDCOLUMNS(
-    calendar(
-             min('Fact'[OrderDate]),
-             max('Fact'[OrderDate])
-           ),
-    "Year",YEAR([Date]),
-    "Month",Month([Date]),
-    "Date fullname",(FORMAT([Date],"mmmm")
-    )
-)
-
-============================================================================================================================================================================================
-
-TOTAL SALES:
-Total sales = sum('Fact'[SalesAmount])
-
-============================================================================================================================================================================================
-
-YOY TOTAL SALES:
-yoy total sales = 
-CALCULATE([Total sales],SAMEPERIODLASTYEAR('dim date'[Date]))
-
-=============================================================================================================================================================================================
-
-%YOY:
-%Yoy = 
-DIVIDE([Total sales]-[yoy total sales],[yoy total sales],0)
-
-==============================================================================================================================================================================================
-ORDER COUNT:
-order count = 
-DISTINCTCOUNT('Fact'[SalesOrderID])
-
-==============================================================================================================================================================================================
-
-AVERAGE ORDER VALUE:
-Average Order Value = 
-AVERAGE('Fact'[SalesAmount])
-
-===============================================================================================================================================================================================
-
-
-
-
-
-Stworzone Widoki w SSMS:
-
-Widok tabeli FACT:
-
-CREATE VIEW Fact AS
-SELECT
-    soh.SalesOrderID,
-    soh.OrderDate,
-    sod.ProductID,
-    p.Name AS ProductName,
-    pc.ProductCategoryID,
-    c.CustomerID,
-    sod.LineTotal AS SalesAmount,
-    sod.OrderQty
-FROM Sales.SalesOrderHeader soh
-JOIN Sales.SalesOrderDetail sod
-    ON soh.SalesOrderID = sod.SalesOrderID
-JOIN Production.Product p
-    ON sod.ProductID = p.ProductID
-JOIN Production.ProductSubcategory ps
-    ON p.ProductSubcategoryID = ps.ProductSubcategoryID
-JOIN Production.ProductCategory pc
-    ON ps.ProductCategoryID = pc.ProductCategoryID
-JOIN Sales.Customer c
-    ON soh.CustomerID = c.CustomerID
-WHERE soh.Status = 5;  -- Completed Orders
-
-==============================================================================================================================================================================================
-
-Widok tabeli DIM COUNTRY:
-
-create view DIMcountry as
-SELECT
-    c.CustomerID,
-    'Person' AS CustomerType,
-    cr.Name AS Country
-FROM Sales.Customer c
-JOIN Person.Person p
-    ON c.PersonID = p.BusinessEntityID
-JOIN Person.BusinessEntityAddress bea
-    ON p.BusinessEntityID = bea.BusinessEntityID
-JOIN Person.Address a
-    ON bea.AddressID = a.AddressID
-JOIN Person.StateProvince sp
-    ON a.StateProvinceID = sp.StateProvinceID
-JOIN Person.CountryRegion cr
-    ON sp.CountryRegionCode = cr.CountryRegionCode
-
-UNION ALL
-
--- customers (shops)
-SELECT
-    c.CustomerID,
-    'Store' AS CustomerType,
-    cr.Name AS Country
-FROM Sales.Customer c
-JOIN Sales.Store s
-    ON c.StoreID = s.BusinessEntityID
-JOIN Person.BusinessEntityAddress bea
-    ON s.BusinessEntityID = bea.BusinessEntityID
-JOIN Person.Address a
-    ON bea.AddressID = a.AddressID
-JOIN Person.StateProvince sp
-    ON a.StateProvinceID = sp.StateProvinceID
-JOIN Person.CountryRegion cr
-    ON sp.CountryRegionCode = cr.CountryRegionCode;
-
-=============================================================================================
-
-Widok tabeli DIM CATEGORY:
-
-create view dimCategory as
-select*
-from Production.ProductCategory
-
-
-
-
