@@ -230,7 +230,49 @@ Its showing post-purchase interference of customer compared to other customers.
 Chart "Sales and order quantity by country" is presenting that the biggest contribution have customers from United States both in terms of the number of orders and the total amount invested.
 In chart we can observe that customers are investing the least  in Canada and that Germany is a country with the least order quantity.
 
-Based on "Customer Base Growth ..." 
+Based on "Customer Base Growth ..." we can find out that in 2013 year, There was a significant strengthening of the upward trend in the number of new customers, and "old customers" began to shop more often - which says green line.
+
+Based on Cohort Analysis we can observe that  customers whose made purchase in months ( January - May) are acoming back more often in november and december.This is evidenced by values e.g. 22% in december for customers from february. 
+It can be assumed that customers make repeat purchases on average every 7-8 months.
+
+
+# What i learned in this project
+By preparing this dashboard I learned how to use visualizations like "matrix', "gauge"(tachometer),"cards+".
+I learned also how to acquire new visualizations when casually programmed in power bi interface are not enough.
+For icon colorization I learned how to use from program Affinity, thanks to this I could visualize icons and then export to Power Bi. I found out about page https://coolors.co. which helps me with selecting the appriopriate color palette.
+I leanred also new functions in Power Bi:
+"Remove filters" which works very similar to "all(table)"
+"Eomonth" which is responsible for showing last date od month.
+Also I learnd what is the meaning of symbols like "&&" or "||".
+The hardest part was for me cohort analysis, which i was doing the first time. I learned also that i can change the size od dashboard.
+
+# Additional Informations
+RFM Score punctation:
+
+
+Total Sales points: 
+
+x > 5000 = 3 points
+x > 1000 = 2 points
+x >= 100 = 1 point
+x < 100 = 0 points
+
+Recency points
+x > 0 or x <90 = 3 points . There are two conditions becouse there is a lot of scores with 0 days which means that customer didnt make second order. Based on this, points are destributed incorecctly
+
+x >= 90 = 2 points
+x > 180 = 1 point
+x > 360 = 0 points
+
+Order quantity points
+
+x > 8 = 3 points
+x > 4 = 2 points
+x > 2 = 1 point
+x < 2 = 0 points
+
+
+
 
 
 
