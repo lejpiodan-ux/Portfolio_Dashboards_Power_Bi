@@ -1,4 +1,4 @@
-# Title: Total Sales 02
+# Tytuł: Total Sales 02
 Cel Dashboardu: Zwrócić uwagę na całkowitą sprzedaż produktów firmy. Porównać ją z innymi okresami, oraz ukazać co sprzedaje się najlepiej.
 Źródło danych: Publiczna baza danych AdventureWorks2017
 
