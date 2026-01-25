@@ -1,6 +1,6 @@
 
 
-# Polish
+
 ## Tytuł: Sales Performance 01
 Użyta Baza danych: Northwind
 
