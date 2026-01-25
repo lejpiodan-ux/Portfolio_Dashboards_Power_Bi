@@ -7,7 +7,7 @@ Przygotowanie Widoków w SSMS aby zoptymalizować dane przed transportem do Powe
 
 Widoki wykonane w SSMS:
 * DIM CATEGORY (Prosty Widok pobierający kategorie produktów)
-* DIM COUNTRY (Zastosowanie `Union ALL` aby połączyć dane dla klientów indywidualnych (personid) oraz sklepów (storeid)
+* DIM COUNTRY (Zastosowanie "Union ALL" aby połączyć dane dla klientów indywidualnych (personid) oraz sklepów (storeid)
 * FACTS ( Połączone tabele Sales order detail oraz sales order header w celu wyodrębnienia potrzebnych
   kluczy id, oraz wartości i dat zamówień. Dodane where soh.status = 5 aby wziąć pod uwagę tylko te sfinalizowane zamówienia żeby uniknąć błędnych danych
 
