@@ -36,7 +36,7 @@ Model gwiazdy w Power Bi 1 grain - 1 zamówienie klienta,
 
 Tabele oraz kolumny  stworzone w Power Bi:
 
- Tabela Calendar :
+#### Tabela Calendar :
  * Zawierająca kolumnę z datami od 01.01.2011 do 31.12.2014
  * Rok
  * Nazwę słowną miesiąca
@@ -49,12 +49,12 @@ Tabele oraz kolumny  stworzone w Power Bi:
   Oraz :
   Zbiór zawierający wszystkie miary wykorzystane w dashboardzie
 
- Tabela Dim Individual Customers 
+#### Tabela Dim Individual Customers 
 zaktualizowana o kolumny:
 * ”First order date month” ( kolumnę zawierającą ostatni dzień miesiąca dla daty pierwszego zakupu - potrzebną aby pogrupować dane do analizy Kohorty)
 * ”last order date"( Kolumnę z datą ostatniego zrobionego zakupu )
 
- Tabela Facts zawierająca nowe kolumny:
+#### Tabela Facts zawierająca nowe kolumny:
 * ”180 days from Last Order” wyświetlającą datę (01.01.2014) która jest o 180 dni wcześniej od ostatniego zakupu w bazie (30.06.2014).
    Potrzebną aby określić czy klient miał jakieś zamówienie w ciągu ostatnich 180 dni (Stable) lub nie miał żadnego zamówienia w ciągu ostatnich 180 dni (Churned)
 * Kolumnę “Churn Status”  Churned/Stable
