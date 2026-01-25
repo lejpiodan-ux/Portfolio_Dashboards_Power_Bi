@@ -138,7 +138,7 @@ x > 4 =2 punkty
 x > 2 = 1 punkt
 x < 2 = 0 punktów
 
-
+Projekt zrobiony jako część portfolio Analityka danych przez Piotr Leja
 
 
 
