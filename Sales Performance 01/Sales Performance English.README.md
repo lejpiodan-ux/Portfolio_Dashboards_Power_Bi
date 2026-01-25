@@ -1,5 +1,5 @@
 
-# English
+
 ## Title Sales Performance 01
 Used Database: Northwind
 
