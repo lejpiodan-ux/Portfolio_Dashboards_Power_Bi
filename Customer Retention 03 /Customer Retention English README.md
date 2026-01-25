@@ -127,3 +127,5 @@ x > 8 = 3 points
 x > 4 = 2 points
 x > 2 = 1 point
 x < 2 = 0 points
+
+Project made by Piotr Leja
