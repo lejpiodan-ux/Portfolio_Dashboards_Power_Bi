@@ -34,31 +34,33 @@ Star schema in Power Bi 1 grain - 1 customer order
 Tables and columns created in Power Bi:
 
 Calendar table:
-- Containing column with dates since 01.01.2011 to 31.12.2014
-- Year
-- Verbal name of the month
-- Number of month
-- Number of quarter
-- Number of day
-- Name of the day
-- Last day of month for each order date
+  - Containing column with dates since 01.01.2011 to 31.12.2014
+  - Year
+  - Verbal name of the month
+  - Number of month
+  - Number of quarter
+  - Number of day
+  - Name of the day
+  - Last day of month for each order date
+
+And different tables: 
+
+ Collection containing all measures used in dashboard
 
 
-* Collection containing all measures used in dashboard
-
-
-* Table "Dim Individual Customers"
+ Table "Dim Individual Customers"
   updated with columns:
-- "First order date month" (Column with last day of month for first order - needed to group data in cohort analysis)
-- "Last order date" (Column with date of last order)
+  * "First order date month" (Column with last day of month for first order - needed to group data in cohort analysis)
+  * "Last order date" (Column with date of last order)
 
-* Fact table containing new columns:
-- "180 days from Last Order" Presenting date (01.01.2014) which is 180 days earlier than last order in database (30.06.2014). Its needed to define if customer has a order in last 180 days (Stable) or customer hasn't any orders in
- last 180 days (Churned)
-- Column "Churn Status" Churned/Stable
-- Column “Days_Between_Last_and_previous_order” showing amount of days between last and previous order of customer
-- "RFM score" - A column that calculates the total amount of the customer's contribution to the company based on the points awarded for 3 categories: Recency + Total sales + Order amount ( The bigger score, the precious customer)
-- Column "Months after" showing how many months after current customer has next purchase. Its needed for Cohort analysis
+
+  Fact table containing new columns:
+  * "180 days from Last Order" Presenting date (01.01.2014) which is 180 days earlier than last order in database (30.06.2014). Its needed to define if customer has a order in last 180 days (Stable) or customer hasn't any     orders in
+   last 180 days (Churned)
+  * Column "Churn Status" Churned/Stable
+  * Column “Days_Between_Last_and_previous_order” showing amount of days between last and previous order of customer
+  * "RFM score" - A column that calculates the total amount of the customer's contribution to the company based on the points awarded for 3 categories: Recency + Total sales + Order amount ( The bigger score, the precious     customer)
+  * Column "Months after" showing how many months after current customer has next purchase. Its needed for Cohort analysis
 
 # Used visualizations
 - Name of the dashboard
