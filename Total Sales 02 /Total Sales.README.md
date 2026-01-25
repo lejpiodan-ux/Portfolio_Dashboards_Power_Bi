@@ -83,4 +83,4 @@ By making this dashboard I learn how to do Views in Sql, and how to keep all mea
 I learned also what is a "Grain" and how important is proper planning of tables in sql on the beginnings, and avoid problems with
 duplicaions later on in Power Bi. I know new terms like "Backend","Frontend","Mockup". I realised how data model should be build, and
 how table facts should look (only id's and calculations). I Found out also very helpful internet site to getting matching icons https://www.flaticon.com/search
-  =========================================================================================================================================================================================
+
