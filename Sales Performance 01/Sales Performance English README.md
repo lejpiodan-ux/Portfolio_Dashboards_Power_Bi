@@ -34,12 +34,12 @@ Used Database: Northwind
 
 ### Diagrams and Charts
 
-## Month-over-Month
+##### Month-over-Month
 Showed by line chart to show monthly sales, dynamics in that period of time and 
 change in trend, after filtering by "Year" slicer
 Chart MOM is independent from slicer "Month". 
 
-## Top 5 categories by Total Sales
+##### Top 5 categories by Total Sales
    Returns which categories are best selling in profit.
    In chart area also works filter "TOP N" by "Total Sales". The reason is to return best 5 scores for 5 best categories
    Chart is integrated with slicers "Month" and "year", to quickly verify the best sales results for individual month and      year.
