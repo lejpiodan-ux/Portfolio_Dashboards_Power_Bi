@@ -81,11 +81,12 @@ Its showing post-purchase interference of customer compared to other customers.
 - Line and stacked Column chart - "Sales and order quantity by country" (presenting number of orders and total sum of customer orders in different countries)
 
 - Line chart - "Customer Base Growth: New vs Active (180 days)" Based on how many customers had next order in next 180 days since current order (green line), and number of new customers whose made first order (red line)
-- 
+  
 - Matrix- "Cohort Analysis for new customers in 2013" - Analysis measures retency indicator for customers the company gained in 2013 year. Each row is representing group of customers, whose made his first order in each month. Columns from 1-12 shows which percent of customers gained earlier is coming back, making next orders in company. In visualization is used a heatmap, to highlight groups of customers whose are making orders more often or rarely.
 
 
 # Business Insights
+
 Chart "Sales and order quantity by country" is presenting that the biggest contribution have customers from United States both in terms of the number of orders and the total amount invested.
 In chart we can observe that customers are investing the least  in Canada and that Germany is a country with the least order quantity.
 
@@ -96,6 +97,7 @@ It can be assumed that customers make repeat purchases on average every 7-8 mont
 
 
 # What i learned in this project
+
 By preparing this dashboard I learned how to use visualizations like "matrix', "gauge"(tachometer),"cards+".
 I learned also how to acquire new visualizations when casually programmed in power bi interface are not enough.
 For icon colorization I learned how to use from program Affinity, thanks to this I could visualize icons and then export to Power Bi. I found out about page https://coolors.co. which helps me with selecting the appriopriate color palette.
@@ -106,28 +108,30 @@ Also I learnd what is the meaning of symbols like "&&" or "||".
 The hardest part was for me cohort analysis, which i was doing the first time. I learned also that i can change the size od dashboard.
 
 # Additional Informations
+
 RFM Score punctation:
 
 
 Total Sales points: 
 
-x > 5000 = 3 points
-x > 1000 = 2 points
-x >= 100 = 1 point
-x < 100 = 0 points
+* x > 5000 = 3 points
+* x > 1000 = 2 points
+* x >= 100 = 1 point
+* x < 100 = 0 points
 
 Recency points
-x > 0 or x <90 = 3 points . There are two conditions becouse there is a lot of scores with 0 days which means that customer didnt make second order. Based on this, points are destributed incorecctly
 
-x >= 90 = 2 points
-x > 180 = 1 point
-x > 360 = 0 points
+* x > 0 or x <90 = 3 points . There are two conditions becouse there is a lot of scores with 0 days which means that customer didnt make second order. Based on this, points are destributed incorecctly
+
+* x >= 90 = 2 points
+* x > 180 = 1 point
+* x > 360 = 0 points
 
 Order quantity points
 
-x > 8 = 3 points
-x > 4 = 2 points
-x > 2 = 1 point
-x < 2 = 0 points
+* x > 8 = 3 points
+* x > 4 = 2 points
+* x > 2 = 1 point
+* x < 2 = 0 points
 
 Project made by Piotr Leja
