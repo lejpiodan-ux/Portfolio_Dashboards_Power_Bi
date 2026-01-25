@@ -9,9 +9,9 @@
 * [Backend](#backend)
 * [Frontend](#frontend)
 * [Wykorzystane Wizualizacje](#wykorzystane-wizualizacje)
-* [Business Inqights](Business_Inqights)
-* [Co wyniosłem z tego projektu](#Co_wyniosłem_z_tego_projektu)
-* [Dodatkowe informacje](#Dodatkowe_informacje)
+* [Wnioski biznesowe](#wnioski_biznesowe )
+* [Co wyniosłem z tego projektu](#co_wyniosłem_z_tego_projektu)
+* [Dodatkowe informacje](#dodatkowe_informacje)
 
 
 
