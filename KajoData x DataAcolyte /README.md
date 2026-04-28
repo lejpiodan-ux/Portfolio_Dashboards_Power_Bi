@@ -1,7 +1,10 @@
 # Tytuł: KajoData x DataAcolyte
 
 <p align="center">
-  <img src="Main%20Page.png" alt="Customer Dashboard Preview" width="800">
+  <img src="Main%20Page.png" width="24%">
+  <img src="Second%20Page.png" width="24%">
+  <img src="Third%20Page.png" width="24%">
+  <img src="Fourth%20Page.png" width="24%">
 </p>
 
 # Power Bi
