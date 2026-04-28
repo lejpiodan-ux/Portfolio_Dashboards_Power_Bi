@@ -27,7 +27,7 @@
 * Średnia liczba zamówień
 # Wykorzystanie wizuali:
 
-***Napływ nowych Klientów*** ( Pokazujący liczbe nowo pozyskanych klientów w obrębie jednego miesiąca )
+**Napływ nowych Klientów** ( Pokazujący liczbe nowo pozyskanych klientów w obrębie jednego miesiąca )
 **Średni czas powrotu klienta** ( Liczba dni, która musi upłynąć, aby klient zrobił kolejne zamówienie )
 **Przychód miesięczny** ( Całkowity przychód w ujęciu miesięcznym )
 
