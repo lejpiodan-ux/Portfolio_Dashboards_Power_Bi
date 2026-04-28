@@ -1,6 +1,6 @@
 # Tytuł: KajoData x DataAcolyte
 
-<img src="Main%20Page%20.png" alt="Model Preview" width="400">
+<img src="Main%20Page20.png" alt="Model Preview" width="400">
 # Power Bi
 ### Początkowe Statystyki 
 * Udostępnione materiały: Data transakcji, Klient, Kwota, 
