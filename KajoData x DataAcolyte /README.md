@@ -49,7 +49,7 @@ Zilustrowanie jaki procent klientów "wraca" robiąc kolejne zakupy. Klienci zos
 Nauczyłem się lepiej wykorzystywać UI/UX design, poprzez dodanie gradientu w większej części mojego projektu, poprzez import obrazków .svg z programu PowerPoint. Nauczyłem się ustawiania nawigacji stron w panelu bocznym, oraz podszkoliłem moją wiedzę z możliwości wykorzystania Bookmarków, szczególnie na stronie "Wnioski i Przemyślenia", gdzie każdy z bookmarków odpowiada za możliwość rozsunięcia/zsunięcia odpowiedniego akapitu z podsumowaniem. Nauczyłem się korzystać z możliwości "error barów", które w bardzo ciekawy sposób obrazują odchylenie standardowe w Ewolucji śedniej wartośći zamówienia. Podszkoliłem, również moje umiejętności wstawiania "tooltipów" (cohorta, oraz znacznki informacyjne w Analizie behawioralnej). Małą, ale bardzo pomocną rzeczą jaką się nauczyłem, było wyłączenie opcji auto date time w ustawieniach tego pliku, co pozwoliło mi na wyświetlenie wszystkich miesięcy cohorty po kolei w wersji polskiej, bez podziału na lata.
 
 
-# Pozostałe informacje:
+# Pozostałe informacje
 
 ### Znaki informacyjne na stronie "Analiza Behawioralna"
 ##### Stały Klient:
