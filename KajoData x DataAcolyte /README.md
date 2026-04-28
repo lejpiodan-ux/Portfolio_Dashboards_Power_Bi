@@ -1,8 +1,9 @@
 # Tytuł: KajoData x DataAcolyte
 
 <p align="center">
-  <img src="KajoData%20x%20DataAcolyte/Main%20Page.png" alt="Customer Dashboard Preview" width="800">
+  <img src="Main%20Page.png" alt="Customer Dashboard Preview" width="800">
 </p>
+
 # Power Bi
 ### Początkowe Statystyki 
 * Udostępnione materiały: Data transakcji, Klient, Kwota, 
