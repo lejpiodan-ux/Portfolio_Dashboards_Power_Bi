@@ -16,4 +16,4 @@
 
 # Favourite project
 
-"KajoData x DataAcolute" is my newest and also the most ambitious project, which i created till now. I am very satisfied in terms of visualizations and whole process of creating
+"KajoData x Data Acolyte" is my newest and also the most ambitious project, which i created till now. I am very satisfied in terms of visualizations and whole process of creating
