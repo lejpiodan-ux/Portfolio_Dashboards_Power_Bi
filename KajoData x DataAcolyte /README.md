@@ -51,8 +51,7 @@ Wykres pozwala zaobserwować, czy wraz z upływem czasu "warstwy" klientów powr
 **Cohorta**
 Zilustrowanie jaki procent klientów "wraca" robiąc kolejne zakupy. Klienci zostali pdodzieleni na grupy (cohorty) według miesiąca w którym zrobili swoje pierwsze zamówienie, a następnie została zliczona iość [%]  klientów, która ponowiła zamówienie po 1,2,3... miesiącu. Pozwala to precyzyjnie śledzić ich lojalność oraz moment, w którym przestają korzystać z usług firmy.
 
-# Czego się nauczyłem?
-Nauczyłem się lepiej wykorzystywać UI/UX design, poprzez dodanie gradientu w większej części mojego projektu, poprzez import obrazków .svg z programu PowerPoint. Nauczyłem się ustawiania nawigacji stron w panelu bocznym, oraz podszkoliłem moją wiedzę z możliwości wykorzystania Bookmarków, szczególnie na stronie "Wnioski i Przemyślenia", gdzie każdy z bookmarków odpowiada za możliwość rozsunięcia/zsunięcia odpowiedniego akapitu z podsumowaniem. Nauczyłem się korzystać z możliwości "error barów", które w bardzo ciekawy sposób obrazują odchylenie standardowe w Ewolucji śedniej wartośći zamówienia. Podszkoliłem, również moje umiejętności wstawiania "tooltipów" (cohorta, oraz znacznki informacyjne w Analizie behawioralnej). Małą, ale bardzo pomocną rzeczą jaką się nauczyłem, było wyłączenie opcji auto date time w ustawieniach tego pliku, co pozwoliło mi na wyświetlenie wszystkich miesięcy cohorty po kolei w wersji polskiej, bez podziału na lata.
+
 
 
 # Pozostałe informacje
@@ -92,3 +91,7 @@ Dane ujawniają wyraźny spadek lojalności po około pół roku od pierwszego z
 
 ##### 7. Stabilność biznesowa
 Podsumowując, przeprowadzona analiza wskazuje, że kluczowym obszarem rozwoju biznesu jest poprawa retencji klientów - szczególnie w pierwszych miesiącach po ich pozyskaniu oraz w okresie od 3 do 6 miesięcy od pierwszego zakupu - a także zwiększenie częstotliwości zakupów i efektywne wykorzystanie przewidywalnego cyklu zakupowego, przy jednoczesnym zwróceniu uwagi na jakość pozyskiwanych klientów, co łącznie może znacząco wpłynąć na stabilność oraz długoterminową rentowność modelu biznesowego.
+
+
+# Czego się nauczyłem?
+Nauczyłem się lepiej wykorzystywać UI/UX design, poprzez dodanie gradientu w większej części mojego projektu, poprzez import obrazków .svg z programu PowerPoint. Nauczyłem się ustawiania nawigacji stron w panelu bocznym, oraz podszkoliłem moją wiedzę z możliwości wykorzystania Bookmarków, szczególnie na stronie "Wnioski i Przemyślenia", gdzie każdy z bookmarków odpowiada za możliwość rozsunięcia/zsunięcia odpowiedniego akapitu z podsumowaniem. Nauczyłem się korzystać z możliwości "error barów", które w bardzo ciekawy sposób obrazują odchylenie standardowe w Ewolucji śedniej wartośći zamówienia. Podszkoliłem, również moje umiejętności wstawiania "tooltipów" (cohorta, oraz znacznki informacyjne w Analizie behawioralnej). Małą, ale bardzo pomocną rzeczą jaką się nauczyłem, było wyłączenie opcji auto date time w ustawieniach tego pliku, co pozwoliło mi na wyświetlenie wszystkich miesięcy cohorty po kolei w wersji polskiej, bez podziału na lata.
