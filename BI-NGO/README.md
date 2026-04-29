@@ -67,16 +67,23 @@ Filtry: Rok
 * Liczba zgłoszeń do projektu #Adopsiaki
 
 ###  Wykorzystanie Wizuali
-Ranking Aplikacji wg Followersów
+
+ 
+##### Ranking aplikacji wg followersów
 Działanie rankingu polega na tym, że poprzez zmiane filtru roku - automatycznie zmienia się liczba przybytych followersów w konkretnym dla wybranego roku, oprócz tego zmienia się miejsce na podium dla konkretnej aplikacji
-Pozwala to zwrócić uwagę w jakiej aplikacji przybyła największa ilość followersów, a na której aplikacji odbiór jest najmniejszy
-Ranking powstał przy wykorzystaniu darmowych obrazków ze strony "FLATICON"
+Pozwala to zwrócić uwagę w jakiej aplikacji przybyła największa ilość followersów, a na której aplikacji odbiór jest najmniejszy. Wartości o liczbie followersów wyświetlają się w formie "tooltipów", po najechaniu na ikonke myzką. Ranking powstał przy wykorzystaniu darmowych obrazków ze strony "FLATICON"
 
-Struktura Przychodów
-Z
+##### Struktura Przychodów
+Skorzystanie z funkcji "hierarchi", która wyświetla dodatkowe informacje, po naciśnięciu systemowej ikonki na wykresie
+
+##### Mapa obrzująca wsparcie w projekcie #Adopsiaki
+Wykorzystanie wizualizacji shape map, naniesienie nazw województw poprzez import przy pomocy strony "MAPSHAPER"
+Przypisanie odpowiednich nazw województw do odpowiednich nazw miast poprzez wykorzystanie funkcji X.Wyszukaj w EXCELU, oraz dalsza obróbka w Power Query
+Mapa wyróżnia województwa, w których trenerzy udzielali wsparcia w projekcie #Adopsiaki według filtru roku.
 
 
-
+Czego się nauczyłem?
+Dzięki przesłaniu jakichkolwiek obrazków z dysku na strone "POSTIMAGES" , oraz późniejszym eksporcie tych obrazków prosto ze strony internetowej do power bi, obrazki nie znikają, ponieważ są połączone z internetem, a nie z moim dyskiem. Poznałem również stronę "MAP SHAPER", która jest bardzo pomocna przy tworzeniu map. Nauczyłem się obsługi wizuala jakim jest card+, razem ze wstawianiem różnic procentowych, znaczków przedstawiających wzrost/spadek, oraz jak się wstawia w nich grafike. Świetnym doświadczeniem była nauka zarządzania "rankingiema ikonek aplikacji", dzięki której dowiedziałem się, że istnieje w ogóle możliwość uwarunkowania pozycji pewnych elementów w power BI względem większej/ mniejszej wartośći.
 
 
 
