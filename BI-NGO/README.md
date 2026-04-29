@@ -1,4 +1,7 @@
 # Tytuł BI-NGO Working Dogs Foundation
+<p align="center">
+  <img src="https://github.com/lejpiodan-ux/Portfolio_Dashboards_Power_Bi/blob/main/BI-NGO/Photo.jpg" width="23%">
+</p>
 
 # Cel
 Celem wykonanego dashboardu, było ukazanie wyników fundacji Working Dogs Foundation w charakterze działań marketingowych, oraz nagłaśniających problem psów w schroniskach w Polsce.
