@@ -73,14 +73,14 @@ Celem wykonanego dashboardu, było ukazanie wyników fundacji Working Dogs Found
 ###  Wykorzystanie Wizuali
 
  
-##### Ranking aplikacji wg followersów
+* Ranking aplikacji wg followersów
 Działanie rankingu polega na tym, że poprzez zmiane filtru roku - automatycznie zmienia się liczba przybytych followersów w konkretnym dla wybranego roku, oprócz tego zmienia się miejsce na podium dla konkretnej aplikacji
 Pozwala to zwrócić uwagę w jakiej aplikacji przybyła największa ilość followersów, a na której aplikacji odbiór jest najmniejszy. Wartości o liczbie followersów wyświetlają się w formie "tooltipów", po najechaniu na ikonke myzką. Ranking powstał przy wykorzystaniu darmowych obrazków ze strony "FLATICON"
 
-##### Struktura Przychodów
+* Struktura Przychodów
 Skorzystanie z funkcji "hierarchi", która wyświetla dodatkowe informacje, po naciśnięciu systemowej ikonki na wykresie
 
-##### Mapa obrzująca wsparcie w projekcie #Adopsiaki
+* Mapa obrzująca wsparcie w projekcie #Adopsiaki
 Wykorzystanie wizualizacji shape map, naniesienie nazw województw poprzez import przy pomocy strony "MAPSHAPER"
 Przypisanie odpowiednich nazw województw do odpowiednich nazw miast poprzez wykorzystanie funkcji X.Wyszukaj w EXCELU, oraz dalsza obróbka w Power Query
 Mapa wyróżnia województwa, w których trenerzy udzielali wsparcia w projekcie #Adopsiaki według filtru roku.
