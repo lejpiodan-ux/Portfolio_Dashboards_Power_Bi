@@ -15,7 +15,8 @@
 ### Końcowe statystyki
 * Liczba kolumn: 19
 * Liczba miar: 16
-* Liczba stron : 5
+* Liczba stron dashboardu: 4
+* Liczba stron Power Bi: 5
 * Liczba Kpi: 5
 * Liczba Wizualizacji: 7
 * Nazwa Czcionki: Helvetica Neue Light
