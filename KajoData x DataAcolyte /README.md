@@ -17,7 +17,7 @@
 * Liczba miar: 16
 * Liczba stron dashboardu: 4
 * Liczba stron Power Bi: 5
-* Liczba Kpi: 5
+* Liczba KPI: 5
 * Liczba Wizualizacji: 7
 * Nazwa Czcionki: Helvetica Neue Light
 * Kolor czcionki: #78FFD6
