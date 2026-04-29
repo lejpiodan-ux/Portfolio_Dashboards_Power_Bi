@@ -5,10 +5,9 @@ Celem wykonanego dashboardu, było ukazanie wyników fundacji Working Dogs Found
 
 # Power Bi
 ### Początkowe Statystyki (sprawozdania, kolumny):
-##### Kursywą zostały zaznaczone niewykorzystane informacje*
 ##### Udostępnione materiały:
-* Sprawozdanie finansowe 2023*, 
-* Sprawozdanie finansowe 2024*,
+* Sprawozdanie finansowe 2023, 
+* Sprawozdanie finansowe 2024,
 * Liczba zgłoszeń do projektu#Adopsiaki
 * Rodziny objęte wsparciem w projekcie #Adopsiaki,
 * Lokalizacje, w których trenerzy udzielali wsparcia w projekcie #Adopsiaki (kumulatywnie od początku działania Fundacji),
@@ -24,8 +23,8 @@ Celem wykonanego dashboardu, było ukazanie wyników fundacji Working Dogs Found
 * Liczba regularnych darczyńców (stan na koniec roku)
 * Kategoria główna
 * Kategoria szczegółowa
-* id_darczyncy*
-* wysokosc_wplaty*
-* sposob_platnosci*
-* Osoba wpłacająca*
-* Wypowiedź (źródła: fanpage Working Dogs, Google opinie lub opinie zebrane przez pracowników/wolontariuszy)*
+* id_darczyncy
+* wysokosc_wplaty
+* sposob_platnosci
+* Osoba wpłacająca
+* Wypowiedź (źródła: fanpage Working Dogs, Google opinie lub opinie zebrane przez pracowników/wolontariuszy)
