@@ -1,4 +1,4 @@
-# Tytuł: KajoData x Data Acolyte
+# Tytuł: KajoData x Data Acolyte (konkurs)
 
 <p align="center">
   <img src="Main%20Page.png" width="23%"> &nbsp;
