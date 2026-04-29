@@ -1,5 +1,5 @@
 
-# Tytuł: Working Dogs Foundation
+# Tytuł: Working Dogs Foundation (konkurs)
 <p>
   <img src="https://github.com/lejpiodan-ux/Portfolio_Dashboards_Power_Bi/blob/main/BI-NGO/Photo.jpg" width="60%">
 </p>
