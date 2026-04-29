@@ -1,6 +1,6 @@
 # Tytuł BI-NGO Working Dogs Foundation
 <p align="center">
-  <img src="https://github.com/lejpiodan-ux/Portfolio_Dashboards_Power_Bi/blob/main/BI-NGO/Photo.jpg" width="23%">
+  <img src="https://github.com/lejpiodan-ux/Portfolio_Dashboards_Power_Bi/blob/main/BI-NGO/Photo.jpg" width="40%">
 </p>
 
 # Cel
