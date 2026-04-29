@@ -4,12 +4,12 @@
 Celem wykonanego dashboardu, było ukazanie wyników fundacji Working Dogs Foundation w charakterze działań marketingowych, oraz nagłaśniających problem psów w schroniskach w Polsce.
 
 #Power Bi
-Początkowe Statystyki (sprawozdania, kolumny):
-*Kursywą zostały zaznaczone niewykorzystane informacje**
-Udostępnione materiały:
-*Sprawozdanie finansowe 2023*, 
-*Sprawozdanie finansowe 2024*,
-Liczba zgłoszeń do projektu#Adopsiaki
+*Początkowe Statystyki (sprawozdania, kolumny):
+*Kursywą zostały zaznaczone niewykorzystane informacje*
+*Udostępnione materiały:
+* Sprawozdanie finansowe 2023*, 
+* Sprawozdanie finansowe 2024*,
+* Liczba zgłoszeń do projektu#Adopsiaki
 Rodziny objęte wsparciem w projekcie #Adopsiaki,
 Lokalizacje, w których trenerzy udzielali wsparcia w projekcie #Adopsiaki (kumulatywnie od początku działania Fundacji),
 Liczba dzieci w szkołach i przedszkolach, które wzięły udział w warsztatach edukacyjnych	
