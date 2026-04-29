@@ -44,17 +44,17 @@ Celem wykonanego dashboardu, było ukazanie wyników fundacji Working Dogs Found
 ### Narzucone czcionki:
   
   * Clash Grotesk
- *  Haurora
+  * Haurora
   
 
 ### Końcowe Statystyki:
-Liczba Kolumn: 23
-Liczba miar: 21
-Liczba stron dashboardu: 1
-Liczba stron Power Bi: 4
-Liczba KPI: 6
-Liczba Wizualizacji: 3
-Filtry: Rok
+* Liczba Kolumn: 23
+* Liczba miar: 21
+* Liczba stron dashboardu: 1
+* Liczba stron Power Bi: 4
+* Liczba KPI: 6
+* Liczba Wizualizacji: 3
+* Filtry: Rok
 
 
 # Wizualizacje
