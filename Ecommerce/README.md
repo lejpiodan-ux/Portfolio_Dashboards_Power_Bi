@@ -5,7 +5,7 @@
 1. [Cel projektu](#cel)
 2. [Backend](#backend)
 3. [Frontend](#frontend)
-4. [Czego się nauczyłem?](#co-wyniosłem-z-tego-projektu-)
+4. [Czego się nauczyłem?](#Czego się nauczyłem?)
    
 # Cel
 
