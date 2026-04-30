@@ -91,9 +91,9 @@ Poznałem również funkcjonalność "Bookmarków" oraz szereg ich zastosowań. 
  * Affinity (zmiana kolorystyki ikon)
 
  Strony Internetowe:
- Dataset: https://www.kaggle.com/datasets/kandeelai22/messy-e-commerce-sales-dataset
- Kolorystyka: https://coolors.co
- Zapisywanie Grafiki: https://postimages.org
+* Dataset: https://www.kaggle.com/datasets/kandeelai22/messy-e-commerce-sales-dataset
+* Kolorystyka: https://coolors.co
+* Zapisywanie Grafiki: https://postimages.org
    
  
  
