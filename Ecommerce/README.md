@@ -1,8 +1,11 @@
 # Tytuł: Ecommerce
 
+# Spis Treści
+
 # Cel
 
-Celem projektu było przeprowadzenie całej analizy end to end .
+Celem projektu było przeprowadzenie całej analizy end to end na podstawie danych ze strony: https://www.kaggle.com/datasets/kandeelai22/messy-e-commerce-sales-dataset.
+
 Proces ten wyglądał następująco:
 1. Pobranie datasetu z internetu 
 2. Data Cleaning w Pythonie
@@ -13,14 +16,24 @@ Proces ten wyglądał następująco:
 8. Przekształcenie danych w wizualizacje
 9. Publikacja w Power BI Service
 
+# Power Bi
+### Końcowe Statystyki
+* Liczba miar: 6
+* Liczba Bookmarków: 2
+* Liczba stron Dashboardu: 1
+* Liczba stron Power Bi: 2
+* Liczba Kpi: 2
+* Liczba Wizualizacji: 5
+* Filtry: List slicer "Choose Category"
+* Kolor tła: #55A973
+* Bazując na kolorze: #18421E
+
  
-# Spis Treści
 
 # Backend
 
 ### Python
 * Pobranie datasetu ze strony kaggle
-* Strona datasetu: https://www.kaggle.com/datasets/kandeelai22/messy-e-commerce-sales-dataset
 * Tutaj znajduje się cały kod napisany w Jupyter notebook w celu "wyczyszczenia danych", razem z opisem wykonanych przeze mnie czynności.
 
 
@@ -49,7 +62,13 @@ Wyodrębnienie roku
 * Waterfall Chart "Cumulative price growth over years" + "Tooltipy",które się pokazują po najechaniu na daną wartość na wykresie
 * Obszar zawierający informacje o "Ship Status"
 * Stacked Column Chart oraz Threemap jako  "Widoki" dla "Total prices per category"
-* 
+* Stacked Bar Chart "Total prices for each product"
+
 
 # Co wyniosłem z tego projektu ?
+Podczas robienia tego projektu, nauczyłem się robić efekt "Highlightowania" Elementów, na które najeżdza się myszką, jest to zauważalne podczas zmieniania filtrów Kategorii w dashboardzie.
+Poznałem również funkcjonalność "Bookmarków" oraz szereg ich zastosowań. Wykorzystałem swoje umiejętności, aby przekształcić "Brudne dane" w pełni czytelni Dashboard
 
+# Dodatkowe informacje
+ Dashboard powstał w wyniku "ćwiczeń Data Wranglingu" , nie miał na celu wyodrębniać szczególnych wniosków biznesowych.
+ Autor: Piotr Leja
