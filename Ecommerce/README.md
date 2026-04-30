@@ -19,7 +19,7 @@ Celem projektu było przeprowadzenie całej analizy end to end na podstawie dany
 2. Data Cleaning w Pythonie
 3. Eksport wybranych tabel do excela
 5. SQL (obróbka widoków)
-6. Import do Power Bi
+6. Import do Power BI
 7. Poprawa błędów w Power Query
 8. Przekształcenie danych w wizualizacje
 9. Publikacja w Power BI Service
