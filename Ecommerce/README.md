@@ -14,7 +14,7 @@
 
 Celem projektu było przeprowadzenie całej analizy end to end na podstawie danych ze strony: https://www.kaggle.com/datasets/kandeelai22/messy-e-commerce-sales-dataset
 
-Proces ten wyglądał następująco:
+### Pipeline
 1. Pobranie datasetu z internetu 
 2. Data Cleaning w Pythonie
 3. Eksport wybranych tabel do excela
