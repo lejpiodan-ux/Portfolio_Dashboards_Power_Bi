@@ -51,7 +51,7 @@ Wyodrębnienie roku
 * Quantity - ilość transakcji
 * Average Order Value - średnia zamówienia (średnia z kolumny "New_Total")
 
-# Wykorzystane Wizuale  
+# Wykorzystane wizuale  
 * Waterfall Chart "Cumulative price growth over years" + "Tooltipy",które się pokazują po najechaniu na daną wartość na wykresie
 * Obszar zawierający informacje o "Ship Status"
 * Stacked Column Chart oraz Threemap jako  "Widoki" dla "Total prices per category"
