@@ -1,4 +1,7 @@
 # Tytuł: Ecommerce
+<p>
+  <img src="https://github.com/lejpiodan-ux/Portfolio_Dashboards_Power_Bi/blob/main/Ecommerce/%20Photo%20first%20chart.png" width="60%">
+</p>
 
 # Spis Treści
 
