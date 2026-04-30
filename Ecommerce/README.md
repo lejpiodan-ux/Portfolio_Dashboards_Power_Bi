@@ -1,6 +1,6 @@
 # Tytuł: Ecommerce
 w trakcie tworzenia ...
-<-- 
+<!-- 
 # Spis Treści
 
 # Backend
