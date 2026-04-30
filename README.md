@@ -22,6 +22,6 @@
 
 # Favourite project
 
-My most comprehensive and engaging project is 'Ecommerce', which demonstrates a complete end-to-end data pipeline. I managed the entire ETL process: from extracting messy, unstructured data from Kaggle, through advanced cleaning and transformation using Python, Excel, and SQL (SSMS), to delivering a final, interactive dashboard in Power BI. This project showcases my ability to integrate multiple technologies to turn raw data into meaningful business insights."
+My most comprehensive and engaging project is 'Ecommerce', which demonstrates a complete end-to-end data pipeline. I managed the entire ETL process: from extracting messy, unstructured data from Kaggle, through advanced cleaning and transformation using Python, Excel, and SQL (SSMS), to delivering a final, interactive dashboard in Power BI. This project showcases my ability to integrate multiple technologies to turn raw data into  good looking dashboards
 
 "KajoData x Data Acolyte" is my second favourite project, where I presented my UX skills across more advanced analytics
