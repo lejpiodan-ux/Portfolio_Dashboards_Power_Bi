@@ -22,4 +22,6 @@
 
 # Favourite project
 
-"KajoData x Data Acolyte" is my newest and also the most ambitious project, which i created till now. I am very satisfied in terms of visualizations and whole process of creating
+My most comprehensive and engaging project is 'Ecommerce', which demonstrates a complete end-to-end data pipeline. I managed the entire ETL process: from extracting messy, unstructured data from Kaggle, through advanced cleaning and transformation using Python, Excel, and SQL (SSMS), to delivering a final, interactive dashboard in Power BI. This project showcases my ability to integrate multiple technologies to turn raw data into meaningful business insights."
+
+"KajoData x Data Acolyte" is my second favourite project, where I presented my UX skills across more advanced analytics
