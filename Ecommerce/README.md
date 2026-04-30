@@ -22,7 +22,7 @@ Proces ten wyglądał następująco:
 
 ### Python
 * Pobranie datasetu ze strony kaggle
-* Tutaj znajduje się cały kod napisany w Jupyter notebook w celu "wyczyszczenia danych", razem z opisem wykonanych przeze mnie czynności.
+* [Tutaj](https://github.com/lejpiodan-ux/Portfolio_Dashboards_Power_Bi/blob/main/Ecommerce/Python%20Data%20Cleaning.py) znajduje się cały kod napisany w Jupyter notebook w celu "wyczyszczenia danych", razem z opisem wykonanych przeze mnie czynności.
 
 
 ### Excel
