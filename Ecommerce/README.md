@@ -12,21 +12,9 @@ Proces ten wyglądał następująco:
 3. Eksport wybranych tabel do excela
 5. SQL (obróbka widoków)
 6. Import do Power Bi
-7. Poprawa błędów w power Query
+7. Poprawa błędów w Power Query
 8. Przekształcenie danych w wizualizacje
 9. Publikacja w Power BI Service
-
-# Power Bi
-### Końcowe Statystyki
-* Liczba miar: 6
-* Liczba Bookmarków: 2
-* Liczba stron Dashboardu: 1
-* Liczba stron Power Bi: 2
-* Liczba Kpi: 2
-* Liczba Wizualizacji: 5
-* Filtry: List slicer "Choose Category"
-* Kolor tła: #55A973
-* Bazując na kolorze: #18421E
 
  
 
@@ -63,6 +51,19 @@ Wyodrębnienie roku
 * Obszar zawierający informacje o "Ship Status"
 * Stacked Column Chart oraz Threemap jako  "Widoki" dla "Total prices per category"
 * Stacked Bar Chart "Total prices for each product"
+
+ # Power Bi
+### Końcowe Statystyki
+* Liczba miar: 6
+* Liczba Bookmarków: 2
+* Liczba stron Dashboardu: 1
+* Liczba stron Power Bi: 2
+* Liczba Kpi: 2
+* Liczba Wizualizacji: 5
+* Filtry: List slicer "Choose Category"
+* Kolor tła: #55A973
+* Bazując na kolorze: #18421E
+
 
 
 # Co wyniosłem z tego projektu ?
