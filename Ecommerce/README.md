@@ -71,4 +71,4 @@ Poznałem również funkcjonalność "Bookmarków" oraz szereg ich zastosowań. 
 
 # Dodatkowe informacje
  Dashboard powstał w wyniku "ćwiczeń Data Wranglingu" , nie miał na celu wyodrębniać szczególnych wniosków biznesowych.
- Autor: Piotr Leja
+###### Autor: Piotr Leja
