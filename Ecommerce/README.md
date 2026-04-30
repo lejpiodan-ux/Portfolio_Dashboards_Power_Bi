@@ -2,9 +2,14 @@
 
 # Spis Treści
 
+1. [Cel projektu](#cel)
+2. [Backend](#backend)
+3. [Frontend](#frontend)
+4. [Czego się nauczyłem?](#co-wyniosłem-z-tego-projektu-)
+   
 # Cel
 
-Celem projektu było przeprowadzenie całej analizy end to end na podstawie danych ze strony: https://www.kaggle.com/datasets/kandeelai22/messy-e-commerce-sales-dataset.
+Celem projektu było przeprowadzenie całej analizy end to end na podstawie danych ze strony: https://www.kaggle.com/datasets/kandeelai22/messy-e-commerce-sales-dataset
 
 Proces ten wyglądał następująco:
 1. Pobranie datasetu z internetu 
@@ -66,10 +71,27 @@ Wyodrębnienie roku
 
 
 
-# Co wyniosłem z tego projektu ?
+# Czego się nauczyłem?
 Podczas robienia tego projektu, nauczyłem się robić efekt "Highlightowania" Elementów, na które najeżdza się myszką, jest to zauważalne podczas zmieniania filtrów Kategorii w dashboardzie.
 Poznałem również funkcjonalność "Bookmarków" oraz szereg ich zastosowań. Wykorzystałem swoje umiejętności, aby przekształcić "Brudne dane" w pełni czytelni Dashboard
 
 # Dodatkowe informacje
  Dashboard powstał w wyniku "ćwiczeń Data Wranglingu" , nie miał na celu wyodrębniać szczególnych wniosków biznesowych.
+ Wykorzystane Programy oraz strony internetowe:
+
+ Programy:
+ * Python
+ * Excel
+ * SQL SSMS
+ * Power Query
+ * Power BI
+ * Affinity (zmiana kolorystyki ikon)
+
+ Strony Internetowe:
+ Dataset: https://www.kaggle.com/datasets/kandeelai22/messy-e-commerce-sales-dataset
+ Kolorystyka: https://coolors.co
+ Zapisywanie Grafiki: https://postimages.org
+   
+ 
+ 
 ###### Autor: Piotr Leja
