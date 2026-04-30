@@ -31,7 +31,7 @@ Napotkane problemy: W niektórych wierszach w kolumnie "Category" brakowało naz
 Rozwiązanie? Użyłem kolumny warunkowej w Power Query, aby dopasować nazwy kategorii wedle odpowiadających im produktom
 
 ### SQL
-
+* [Tutaj](https://github.com/lejpiodan-ux/Portfolio_Dashboards_Power_Bi/blob/main/Ecommerce/SQL%20Script.sql) znajduje się skrypt SQL, w którym przygotowałem logikę widoku obliczającego dynamikę sprzedaży miesiąc do miesiąca (MoM).
 ### Power Bi
 Dashboard został zbudowany według:
 * grain transakcyjny - odpowiadający 1 transakcji
